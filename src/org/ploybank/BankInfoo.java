@@ -15,4 +15,8 @@ System.out.println("Fixed acount 20%");
 		// TODO Auto-generated method stub
 System.out.println("deposit account 30%");
 	}
+	public void interest() {
+		// TODO Auto-generated method stub
+System.out.println("interest account 30%");
+	}
 }
