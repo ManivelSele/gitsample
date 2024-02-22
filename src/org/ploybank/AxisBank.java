@@ -18,5 +18,6 @@ System.out.println("RD account Nil");
 		ds.saving();
 		ds.fixed();
 		ds.recurdep();
+		ds.interest();
 	}
 }
